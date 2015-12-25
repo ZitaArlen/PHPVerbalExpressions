@@ -59,3 +59,5 @@ The project supports Composer so you have to install [Composer](http://getcompos
     ./phpunit
     
 
+For details visit: <A HREF="http://quoteshunter.com/sad-quotes/">http://quoteshunter.com/sad-quotes/</A></P>
+
